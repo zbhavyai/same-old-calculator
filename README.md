@@ -11,13 +11,13 @@ Same old boring calculator. See it live [here](https://zbhavyai.github.io/same-o
 
 + When using keyboard, use
 
-	+ Enter for =
+   + Enter for =
 
-	+ Backspace for &larr;
+   + Backspace for &larr;
 
-	+ p for &#8723;
+   + p for &#8723;
 
-	+ s for &#8730;
+   + s for &#8730;
 
 
 ## How to run
