@@ -1,9 +1,6 @@
 # Calculator
 
-Same old boring calculator that nobody wants to see or use 
-
-See it live at [zbhavyai.github.io/showcase/same-old-calculator/](https://zbhavyai.github.io/showcase/same-old-calculator/)
-
+Same old boring calculator. See it live [here](https://zbhavyai.github.io/same-old-calculator/).
 
 
 ## Features
@@ -12,7 +9,7 @@ See it live at [zbhavyai.github.io/showcase/same-old-calculator/](https://zbhavy
 
 + Can be used via clicking onscreen buttons or using key strokes on the keyboard
 
-+ For keyboard, use
++ When using keyboard, use
 
 	+ Enter for =
 
@@ -23,7 +20,13 @@ See it live at [zbhavyai.github.io/showcase/same-old-calculator/](https://zbhavy
 	+ s for &#8730;
 
 
+## How to run
 
-## Usage
+1. Clone the repository on your machine
 
-Use the on-screen buttons or use the keyboard to type mathematical expressions and enjoy your calculations
+2. Open the [index.html](index.html) file in your browser
+
+
+## Screenshots
+
+<img src="screenshots/calci.png" alt="Calci" width="300"/>
